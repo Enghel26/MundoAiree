@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 70" width="240" height="70">
+  <defs>
+    <linearGradient id="wtGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#1e293b" />
+    </linearGradient>
+  </defs>
+  <!-- W Emblem -->
+  <g transform="translate(10, 15)">
+    <rect width="36" height="36" rx="8" fill="#0284c7" />
+    <path d="M 8 10 L 14 26 L 18 16 L 22 26 L 28 10" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+  </g>
+  <text x="56" y="38" font-family="'Plus Jakarta Sans', Arial, sans-serif" font-weight="900" font-size="22" fill="#0f172a" letter-spacing="1.5">WESTINTECH</text>
+  <text x="58" y="52" font-family="Arial, sans-serif" font-weight="700" font-size="9" fill="#0284c7" letter-spacing="3">CLIMA &amp; TECHNOLOGY</text>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 80" width="240" height="80">
+  <g transform="translate(10, 6)">
+    <!-- 3-Lobe Geometric Symbol -->
+    <g transform="translate(12, 4) scale(0.9)" fill="none" stroke="#0a0a82" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M 18 10 L 32 34 L 8 28 Z" />
+      <path d="M 28 8 L 38 30 L 16 38 Z" />
+      <path d="M 10 20 L 36 14 L 24 38 Z" />
+    </g>
+
+    <!-- Wordmark AIRMAX -->
+    <text x="65" y="47" font-family="'Plus Jakarta Sans', Arial, sans-serif" font-weight="900" font-size="28" fill="#0a0a82" letter-spacing="1.5">AIRMAX</text>
+  </g>
+</svg>

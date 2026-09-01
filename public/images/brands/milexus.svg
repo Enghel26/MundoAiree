@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 70" width="240" height="70">
+  <defs>
+    <linearGradient id="milexGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#dc2626" />
+      <stop offset="100%" stop-color="#ef4444" />
+    </linearGradient>
+  </defs>
+  <g transform="translate(10, 14)">
+    <polygon points="0,0 12,24 24,0 36,24 48,0 42,32 6,32" fill="url(#milexGrad)" />
+  </g>
+  <text x="66" y="42" font-family="'Plus Jakarta Sans', Arial, sans-serif" font-weight="900" font-size="28" fill="#0f172a" letter-spacing="2">MILEXUS</text>
+  <text x="68" y="56" font-family="Arial, sans-serif" font-weight="700" font-size="9" fill="#dc2626" letter-spacing="3">HOME APPLIANCES</text>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 80" width="240" height="80">
+  <!-- GREE Logo: Tight crop, authentic red & blue globe mark + bold GREE typography -->
+  <g transform="translate(10, 5)">
+    <!-- Iconic Crescent Mark -->
+    <path d="M 38 12 C 22 12 10 24 10 38 C 10 52 22 64 38 64 C 48 64 56 59 61 51 C 54 53 46 51 40 46 C 33 40 31 31 34 23 C 35 20 37 17 40 15 C 39.3 14 38.6 13 38 12 Z" fill="#0066b3" />
+    <path d="M 46 16 C 53 22 55 31 52 39 C 49 46 41 51 33 49 C 40 55 49 55 56 49 C 63 43 65 33 60 25 C 57 20 52 17 46 16 Z" fill="#e30613" />
+    
+    <!-- Bold GREE Wordmark -->
+    <text x="80" y="47" font-family="'Plus Jakarta Sans', Arial, Helvetica, sans-serif" font-weight="900" font-size="34" fill="#0066b3" letter-spacing="2">GREE</text>
+  </g>
+</svg>
